@@ -1,7 +1,7 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 
-<h3>Name: Prabha C</h3>
-<h3>Register Number:212222110032 </h3>
+<h3>Name: thamaraiselvan v</h3>
+<h3>Register Number:212221230115 </h3>
 
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
